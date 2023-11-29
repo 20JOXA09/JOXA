@@ -1,0 +1,241 @@
+body{
+    background-color: #121212;
+    background-size: cover;
+}
+
+.a{
+    width: 50px;
+    height: 50px;
+    transform: translateX(0px)translateY(-70px);
+}
+h3{
+    color: white;
+    transform: translateX(0px)translateY(100px);
+}
+h1{
+    color: white;
+    transform: translateX(0px)translateY(200px);
+}
+.H{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    transform: translateX(100px)translateY(0px);
+    
+}
+.A{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+
+}
+.C{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+}
+.S{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    
+}
+.A:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.H:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.C:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.About{
+    background-image: url(About.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.X{
+    color: #37745B;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    transform: translateX(120px)translateY(-33px);
+}
+.J{
+    color: #CECBCB;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    transform: translateX(70px)translateY(7px);
+}
+button{
+    color: #CECBCB;
+    background-color: #37745B;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    transform: translateX(1350px)translateY(-150px);
+}
+.name{
+    color: #CECBCB;
+    transform: translateX(50px)translateY(140px);
+}
+.X2{
+    color: #37745B;
+    transform: translateX(130px)translateY(70px);
+}
+.J2{
+    color: #CECBCB;
+    transform: translateX(50px)translateY(129px);
+}
+.name2{
+    color: #CECBCB;
+    transform: translateX(50px)translateY(60px);
+}
+.laptop{
+    display: flex;
+}
+.group-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateX(400px)translateY(-112px);
+}
+.img1{
+    transform: translateX(750px)translateY(-200px);
+    width: 700px;
+    height: 400px;
+}
+button:hover{
+    transition: 1s;
+    background-color: white;
+    color: green;
+}
+.H2{
+    text-decoration: none;
+    color: white;
+    transform: translateX(100px)translateY(0px);
+    margin: 20px;
+}
+.A2{
+    text-decoration: none;
+    color: white;
+    transform: translateX()translateY();
+    margin: 20px;
+}
+.S2{
+    text-decoration: none;
+    color: white;
+    transform: translateX()translateY();
+    margin: 20px;
+}
+.H2:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.A2:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.S2:hover{
+    color: #37745B;
+    transition: 1s;
+}
+.Nav{
+    transform: translateX(1200px)translateY(0px);
+}
+.H11{
+    color: #37745B;
+    border: 3px solid white;
+    width: 1000px;
+    height: 200px;
+    transform: translateX(250px)translateY(200px);
+}
+.rasm12{
+    width: 50px;
+    transform: translateX(7px)translateY(-260px);
+}
+.rasm13{
+    width: 50px;
+    transform: translateX(-1265px)translateY(21px);
+}
+.rasm14{
+    width: 300px;
+    transform: translateX(570px)translateY(-220px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rasm16{
+    width: 300px;
+    transform: translateX(0px)translateY(0px);
+    display: flex;align-items: center;
+}
+.rasm17{
+    width: 300px;
+    transform: translateX(0px)translateY(0px);
+}
+.rasm18{
+    width: 300px;
+    transform: translateX(0px)translateY(0px);
+}
+.rasm19{
+    width: 300px;
+    transform: translateX(0px)translateY(0px);
+}
+.rasm15{
+    transform: translateX(2px)translateY(-40px);
+}
+.H3{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    transform: translateX(100px)translateY(50px);
+}
+.A3{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    transform: translateX(500px)translateY(100px);
+}
+.S3{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+.H6{
+    color: #37745B;
+    transform: translateX(500px)translateY(0px);
+}
+.rasm16{
+    transform: translateX(0px)translateY(50px);
+}
+.rasm17{
+    transform: translateX(580px)translateY(-239px);
+}
+.rasm18{
+    transform: translateX(900px)translateY(-239px);
+}
+.group{
+    transform: translateX(1230px)translateY(0px);
+}
+.UL{
+    transform: translateX(30px)translateY(0px);
+}
+.btn{
+    border: 1px solid black;
+    background-color: black;
+}
+.btn{
+    border: 10px dashshed yello;
+}
